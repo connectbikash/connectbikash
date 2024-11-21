@@ -129,12 +129,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/connectbikash/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/connectbikash/connectbikash/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/connectbikash/connectbikash/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/connectbikash/count.svg?"  />
+</div>
 
 ###
