@@ -134,3 +134,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/connectbikash/connectbikash/output/snake.svg" alt="Snake animation" />
+
+###
