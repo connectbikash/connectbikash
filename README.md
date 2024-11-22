@@ -24,8 +24,8 @@
 
 <div align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,py,c,cpp,php,spring,dotnet,laravel,arduino,mysql,postgres,mongodb,hibernate,angular,ts" /></br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ps,figma,blender,maven,gradle,kafka,kubernetes,aws,docker" /></br>
+    <img src="https://skillicons.dev/icons?i=java,cs,py,c,cpp,php,spring,dotnet,laravel,arduino,mysql,postgres,mongodb,hibernate,angular" /></br>
+    <img src="https://skillicons.dev/icons?i=ts,html,css,bootstrap,js,jquery,ps,figma,blender,maven,gradle,kafka,kubernetes,aws,docker" /></br>
     <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,windows,ubuntu,linux,powershell,idea,eclipse,npm" /></br>
 </div>
 
@@ -70,7 +70,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/connectbikash/connectbikash/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/connectbikash/connectbikash/output/snake.svg" alt="Snake animation" />
 
 ###
 
