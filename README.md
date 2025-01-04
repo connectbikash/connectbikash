@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">👨🏻‍💻 Full Stack Developer<br>🤖 Open Source Enthusiast<br>💻 Remotely Working<br>💼 I’m currently working on freelance projects</h4>
+<h4 align="left">👨🏻‍💻 Full Stack Developer<br>🤖 Open Source Enthusiast<br>💻 Remotely Working<br>💼 I’m currently working on Web-Based projects</h4>
 
 ###
 
